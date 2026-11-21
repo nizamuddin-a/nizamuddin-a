@@ -9,7 +9,7 @@
 
 </div>
 
----
+<p align="center"><img src="divider.svg" width="700" alt="" /></p>
 
 ## 01 — About Me
 
@@ -23,7 +23,7 @@ I'm an Electronics and Communication Engineering student who is going all-in on 
 
 > My approach: learn the fundamentals deeply, then build things that use them.
 
----
+<p align="center"><img src="divider.svg" width="700" alt="" /></p>
 
 ## 02 — Tech Stack
 
@@ -38,7 +38,7 @@ I'm an Electronics and Communication Engineering student who is going all-in on 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
+<p align="center"><img src="divider.svg" width="700" alt="" /></p>
 
 ## 03 — Selected Projects
 
@@ -58,7 +58,7 @@ An AI-powered tutor that helps students learn and get answers to their questions
 </tr>
 </table>
 
----
+<p align="center"><img src="divider.svg" width="700" alt="" /></p>
 
 ## 04 — Currently Learning
 
@@ -68,7 +68,7 @@ An AI-powered tutor that helps students learn and get answers to their questions
 | CS Fundamentals | Operating Systems, DBMS, Computer Networks |
 | Problem Solving | LeetCode / GeeksforGeeks practice |
 
----
+<p align="center"><img src="divider.svg" width="700" alt="" /></p>
 
 ## 05 — Let's Connect
 
@@ -76,6 +76,8 @@ I'm looking for internships and opportunities where I can grow as a software eng
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nizamuddin16/)
 [![Email](https://img.shields.io/badge/SEND_AN_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nizamuddin200616@gmail.com)
+
+<p align="center"><img src="divider.svg" width="700" alt="" /></p>
 
 <div align="center">
 
